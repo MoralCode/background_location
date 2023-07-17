@@ -1,3 +1,8 @@
+### 0.10.0
+
+- Android: Update BackgroundLocationService abstract class to support more recent flutter/dart versions [#174](https://github.com/Almoullim/background_location/pull/174)
+- Android: Update gradle version and play-services-location to prevent crashing [#183](https://github.com/Almoullim/background_location/pull/183)
+
 ### 0.9.0
 - Android: Set "exported" manifest setting to false [#163](https://github.com/Almoullim/background_location/pull/163)
 - Fixed an overrides of onRequestPermissionsResult [#151](https://github.com/Almoullim/background_location/pull/151)
